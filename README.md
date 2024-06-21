@@ -1,1 +1,2 @@
-# Predescu_Ionela-Liana_Aplicatie_Practica_Spec_Licenta
+Platforma se ruleaza in WampServer
+Se deschide fisierul "index.php" si se apasa pe BOOKFORMATION
